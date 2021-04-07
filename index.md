@@ -2,6 +2,8 @@
 I have some of my repo's below this 
 # Name and Age Rememberer
 This is a python script that taught me so much. I learnt how to open files, I learned how to use colours, and I most importantly made it fake loading screens :). [Name And Age](https://github.com/xavierbrasher/nameAndAgeRemember) 
+# Sound website
+A bunch of random sound effects with images. I made this in my free time and some of it is still in progress. [Sounds](https://xavierbrasher.github.io/sounds/index.html)
 # Lucid Dreams
 This is one of my favourite websites, it plays my favourite song ahaha.
 [Lucid Dreams](https://xavierbrasher.github.io/LucidDreams/index)
