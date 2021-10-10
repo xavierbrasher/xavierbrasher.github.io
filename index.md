@@ -2,6 +2,10 @@
 
 I have some of my repo's below this
 
+# Name and Age Rememberer CPP!!
+
+This is a CPP script that taught me cpp basically. I did this as I wanted name and age as an executable. I know there are many other ways to do this but I thought it would be fun to learn a new language  [Name And Age CPP](https://github.com/xavierbrasher/Name-And-Age-Remember-CPP)
+
 # Name and Age Rememberer
 
 This is a python script that taught me so much. I learnt how to open files, I learned how to use colours, and I most importantly made it fake loading screens :). [Name And Age](https://github.com/xavierbrasher/nameAndAgeRemember)
